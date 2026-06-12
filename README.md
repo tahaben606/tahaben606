@@ -4,7 +4,7 @@
 
 ### Software Engineering Student • Full Stack Developer • AI Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Engineering+Student+at+EMSI;Turning+Ideas+into+Products;React+%7C+Next.js+%7C+Python+%7C+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Engineering+Student;Turning+Ideas+into+Products;React+%7C+Next.js+%7C+Python+%7C+AI" />
 
 <br>
 
