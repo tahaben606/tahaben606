@@ -18,213 +18,222 @@
 
 # 🧠 Who Am I?
 
+## 👨‍💻 About Me
+
 ```yaml
 name: Taha Benissaouia
+role: Software Engineering Student & Full Stack Developer
 location: Morocco 🇲🇦
 education:  - Software Engineering & Networks
-role: Full Stack Developer
-interests:
+focus:
   - Artificial Intelligence
-  - Software Engineering
-  - Product Development
-  - System Architecture
-  - Data Analytics
+  - Full Stack Development
+  - Software Architecture
+  - Product Engineering
+current_mission: Building intelligent products that solve real-world problems
+```
 
-current_mission:
-  Build useful software solving real-world problems
-🚀 Engineering Dashboard
-<table> <tr> <td align="center">
-💻 Projects
+---
 
-6+
+# 🚀 Engineering Dashboard
 
-</td> <td align="center">
-🤖 AI Systems
+<div align="center">
 
-3+
+| 💻 Projects | 🤖 AI Systems | 🌐 Full-Stack Apps | ☕ Coffee |
+| ----------- | ------------- | ------------------ | -------- |
+| **6+**      | **3+**        | **10+**            | **∞**    |
 
-</td> <td align="center">
-🌐 Fullstack Apps
+</div>
 
-10+
+---
 
-</td> <td align="center">
-☕ Coffee
+# ⚡ Featured Projects
 
-∞
+<table>
+<tr>
+<td width="50%">
 
-</td> </tr> </table>
-⚡ Featured Products
-🎓  Academic Flow
+### 🎓 Academic Flow
 
-AI-powered Academic Management Platform
+**AI-Powered Academic Management Platform**
 
-Core Modules
-📊 Academic Risk Detection
-├── Predictive Risk Score (0-100)
-├── Attendance Analysis
-└── Performance Monitoring
+✅ Academic Risk Detection
+✅ AI Assistant (RAG)
+✅ Analytics Dashboard
+✅ Attendance Management
+✅ Predictive Scoring System
 
-🤖 AI Assistant (RAG)
-├── School Policies
-├── Academic Documents
-└── Intelligent Search
+**Stack**
 
-📈 Analytics Dashboard
-├── Heatmaps
-├── Attendance Tracking
-└── Decision Support
+`Next.js 16` `TypeScript` `Prisma`
+`Tailwind CSS 4` `AI SDK` `Recharts`
 
-Stack
+</td>
 
-+ Next.js 16
-+ TypeScript
-+ Prisma
-+ Tailwind CSS 4
-+ AI SDK
-+ Recharts
-🥗 NuTrack
+<td width="50%">
 
-Nutrition Intelligence Platform
+### 🥗 NuTrack
 
-System Architecture
-User
- │
- ▼
-Nutrition Tracker
- │
- ├── Calorie Monitoring
- ├── Meal Planning
- ├── Macronutrients Analysis
- │
- ▼
-AI Engine
- │
- ├── Groq API
- ├── Gemini API
- └── Recipe Generation
- │
- ▼
-Smart Fridge Vision
-Highlights
-+ AI Recipe Generation
-+ Smart Fridge Detection
-+ Nutrition Analytics
-+ Redux Architecture
-+ Responsive Design
+**AI Nutrition Intelligence Platform**
 
-🌐 https://nutrack-three.vercel.app
+✅ Smart Fridge Analysis
+✅ AI Recipe Generator
+✅ Nutrition Tracking
+✅ Meal Planning
+✅ Daily Analytics
 
-🔐 VerQR
+**Stack**
 
-Secure Document Verification Platform
+`React 19` `Flask`
+`Redux` `Tailwind`
+`Groq API` `Gemini API`
 
-Administrator
-      │
-      ▼
-Attestation Generation
-      │
-      ▼
-PDF Generator
-      │
-      ▼
-QR Encryption
-      │
-      ▼
-Verification Portal
-Features
-+ QR Verification
-+ PDF Generation
-+ Role Management
-+ Supabase Integration
-+ Public Verification
+</td>
+</tr>
 
-🌐 https://projet-pfa-verqr.vercel.app
+<tr>
+<td width="50%">
 
-🎮 BEATIT
+### 🔐 VerQR
 
-Real-Time Multiplayer Rhythm Game
+**Secure QR Verification System**
 
-🎵 Music
-   +
-⚡ Reflexes
-   +
-🌎 Multiplayer Sync
-   =
-🏆 Competition
-Technical Focus
-+ Vanilla JavaScript
-+ Real-Time Synchronization
-+ Multiplayer Architecture
-+ Responsive Design
+✅ PDF Generation
+✅ QR Authentication
+✅ Role Management
+✅ Public Verification Portal
+✅ Supabase Integration
 
-🌐 https://beatit-kappa.vercel.app
+**Stack**
 
-📦 Mini Storage Handler
+`React` `Node.js`
+`Express`
+`Supabase`
+`PostgreSQL`
 
-Smart Storage Management System
+</td>
 
-Storage
-  │
-  ├── File Management
-  ├── Optimization
-  ├── Tracking
-  └── Organization
-Built During Final Year Project (PFE)
+<td width="50%">
+
+### 🎮 BEATIT
+
+**Real-Time Multiplayer Rhythm Game**
+
+✅ Multiplayer Synchronization
+✅ Responsive Design
+✅ Real-Time Gameplay
+✅ Vanilla JavaScript Engine
+
+**Stack**
+
+`JavaScript`
+`WebSockets`
+`Vercel`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 Mini Storage Handler
+
+**Final Year Project (PFE)**
+
+* File Management System
+* Storage Optimization
+* Data Organization
+* React-Based Architecture
 
 🌐 https://mini-storage-handler-pfe.vercel.app
 
-✈️ Travel-App
+---
 
-Travel Discovery Platform
+## ✈️ Travel-App
 
-Discover
-   ▼
-Plan
-   ▼
-Organize
-   ▼
-Travel
-Architecture
-+ React
-+ Laravel
-+ REST APIs
-+ Full Stack Design
-🛠 Tech Arsenal
-Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> </p>
-Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,flask,django" /> </p>
-Database
-<p> <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" /> </p>
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </p>
-📈 GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=tahaben606&show_icons=true&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaben606&layout=compact&hide_border=true"/> </div>
-🏗 Current Focus
-████████████████████░░░░ 80%
+**Journey Discovery & Planning Platform**
 
-AI Applications
-███████████████████░░░░░ 75%
+* Travel Exploration
+* Trip Organization
+* Full-Stack Architecture
+* Laravel Backend
 
-System Architecture
-█████████████████░░░░░░░ 70%
+**Stack**
 
-Full Stack Engineering
-█████████████████████░░░ 85%
-🌍 Connect
+`React` `Laravel`
+`REST APIs`
+
+---
+
+# 🛠 Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,flask,django" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tahaben606&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaben606&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🌐 Full Stack Development      █████████████████░░░ 90%
+🏗 Software Architecture        ██████████████░░░░░  80%
+🤖 Artificial Intelligence      ████████████░░░░░░░ 67%
+☁ Cloud & Scalability          █████████░░░░░░░░░   50%
+```
+
+---
+
+# 🌍 Connect
+
 <div align="center">
 
 💼 LinkedIn: Taha Benissaouia
 
-📧 tahabenissaouia@gmail.com
+📧 [tahabenissaouia@gmail.com](mailto:tahabenissaouia@gmail.com)
 
 🐙 GitHub: github.com/tahaben606
 
 </div>
+
+---
+
 <div align="center">
-"Engineering products that solve real problems."
 
-⭐ If you like my work, feel free to explore my repositories.
+### 💡 Engineering products that solve real problems
 
-</div> ```
+⭐ Explore my repositories and follow my journey.
+
+</div>
