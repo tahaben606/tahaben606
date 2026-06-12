@@ -119,21 +119,6 @@ current_mission: Building intelligent products that solve real-world problems
 
 <td width="50%" valign="top">
 
-### BEATIT
-
-**Real-Time Multiplayer Rhythm Game**
-
-**Highlights**
-
-* Multiplayer Synchronization
-* Competitive Gameplay
-* Responsive Design
-* Vanilla JavaScript Engine
-
-**Technology**
-`JavaScript`
-`WebSockets`
-`Vercel`
 
 </td>
 </tr>
@@ -161,21 +146,6 @@ current_mission: Building intelligent products that solve real-world problems
 
 <td width="50%" valign="top">
 
-### Travel App
-
-**Travel Planning Platform**
-
-**Highlights**
-
-* Destination Discovery
-* Trip Organization
-* Full-Stack Architecture
-* Responsive Experience
-
-**Technology**
-`React`
-`Laravel`
-`REST APIs`
 
 </td>
 </tr>
