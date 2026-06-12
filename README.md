@@ -55,10 +55,19 @@ current_mission: Building intelligent products that solve real-world problems
 
 ---
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
 ## 🚀 Academic Flow  
 ### AI-Powered Academic Management Platform  
 
-<p>
+</div>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge"/>
@@ -74,12 +83,18 @@ current_mission: Building intelligent products that solve real-world problems
 - 📊 Analytics Dashboard  
 - 📈 Predictive Scoring System  
 
----
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
 
 ## 🧠 NuTrack  
 ### Nutrition Intelligence Platform  
 
-<p>
+</div>
+
+<p align="center">
 <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge"/>
@@ -95,12 +110,22 @@ current_mission: Building intelligent products that solve real-world problems
 - 📅 Meal Planning  
 - 📊 Analytics Dashboard  
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
 
 ## 🔐 VerQR  
 ### Document Verification Platform  
 
-<p>
+</div>
+
+<p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
@@ -115,12 +140,18 @@ current_mission: Building intelligent products that solve real-world problems
 - 🌐 Public Verification Portal  
 - 🗄 Secure Data Storage  
 
----
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
 
 ## 📦 Mini Storage Handler  
 ### Storage & File Management System (PFE)
 
-<p>
+</div>
+
+<p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge"/>
@@ -131,6 +162,11 @@ current_mission: Building intelligent products that solve real-world problems
 - 🗂 File Organization  
 - 📊 Data Management  
 - 🎓 Final Year Project (PFE)  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
