@@ -47,141 +47,98 @@ current_mission: Building intelligent products that solve real-world problems
 
 ---
 
+<div align="center">
+
 # ⚡ Featured Projects
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Academic Flow
-
-**AI-Powered Academic Management Platform**
-
-**Highlights**
-
-* Academic Risk Detection
-* AI Assistant (RAG)
-* Attendance Management
-* Analytics Dashboard
-* Predictive Scoring System
-
-**Technology**
-`Next.js 16` · `TypeScript` · `Prisma`
-`Tailwind CSS 4` · `AI SDK` · `Recharts`
-
-</td>
-
-<td width="50%" valign="top">
-
-### NuTrack
-
-**Nutrition Intelligence Platform**
-
-**Highlights**
-
-* Nutrition Tracking
-* Smart Fridge Analysis
-* AI Recipe Generation
-* Meal Planning
-* Analytics Dashboard
-
-**Technology**
-`React 19` · `Flask`
-`Redux` · `Tailwind CSS`
-`Groq API` · `Gemini API`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### VerQR
-
-**Document Verification Platform**
-
-**Highlights**
-
-* QR Verification
-* PDF Generation
-* Role-Based Access Control
-* Public Verification Portal
-* Secure Data Storage
-
-**Technology**
-`React` · `Node.js`
-`Express` · `Supabase`
-`PostgreSQL`
-
-</td>
-
-
-
-<tr>
-<td width="50%" valign="top">
-
-### Mini Storage Handler
-
-**Storage & File Management System**
-
-**Highlights**
-
-* Storage Optimization
-* File Organization
-* Data Management
-* Final Year Project (PFE)
-
-**Technology**
-`React`
-`JavaScript`
-`Vercel`
-
-</td>
-
-<td width="50%" valign="top">
-
-
-</td>
-</tr>
-</table>
-
-
-</td>
-
-
-</table>
+</div>
 
 ---
 
-## 📦 Mini Storage Handler
+## 🚀 Academic Flow  
+### AI-Powered Academic Management Platform  
 
-**Final Year Project (PFE)**
+<p>
+<img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20SDK-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recharts-orange?style=for-the-badge"/>
+</p>
 
-* File Management System
-* Storage Optimization
-* Data Organization
-* React-Based Architecture
-
-🌐 https://mini-storage-handler-pfe.vercel.app
+**Highlights**
+- 🎯 Academic Risk Detection  
+- 🤖 AI Assistant (RAG)  
+- 🧾 Attendance Management  
+- 📊 Analytics Dashboard  
+- 📈 Predictive Scoring System  
 
 ---
 
-## ✈️ Travel-App
+## 🧠 NuTrack  
+### Nutrition Intelligence Platform  
 
-**Journey Discovery & Planning Platform**
+<p>
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq%20API-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-blueviolet?style=for-the-badge"/>
+</p>
 
-* Travel Exploration
-* Trip Organization
-* Full-Stack Architecture
-* Laravel Backend
+**Highlights**
+- 🥗 Nutrition Tracking  
+- 🧊 Smart Fridge Analysis  
+- 🍳 AI Recipe Generation  
+- 📅 Meal Planning  
+- 📊 Analytics Dashboard  
 
-**Stack**
+---
 
-`React` `Laravel`
-`REST APIs`
+## 🔐 VerQR  
+### Document Verification Platform  
 
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge"/>
+</p>
+
+**Highlights**
+- 🔍 QR Verification  
+- 📄 PDF Generation  
+- 🔐 Role-Based Access Control  
+- 🌐 Public Verification Portal  
+- 🗄 Secure Data Storage  
+
+---
+
+## 📦 Mini Storage Handler  
+### Storage & File Management System (PFE)
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge"/>
+</p>
+
+**Highlights**
+- 📦 Storage Optimization  
+- 🗂 File Organization  
+- 📊 Data Management  
+- 🎓 Final Year Project (PFE)  
+
+---
+
+<div align="center">
+
+### 💡 Building intelligent systems that solve real-world problems
+
+</div>
 ---
 
 # 🛠 Tech Arsenal
