@@ -21,7 +21,7 @@
 ```yaml
 name: Taha Benissaouia
 location: Morocco 🇲🇦
-education: EMSI - Software Engineering & Networks
+education: Software Engineering & Networks
 role: Full Stack Developer
 interests:
   - Artificial Intelligence
