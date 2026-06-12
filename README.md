@@ -1,6 +1,6 @@
-# Tahaben606
+# tahaben606
 
-Welcome to the Tahaben606 project! This repository contains code, resources, and documentation for [your project description].
+Welcome to the tahaben606 project! This repository contains code, resources, and documentation for [your project description].
 
 ## Table of Contents
 
