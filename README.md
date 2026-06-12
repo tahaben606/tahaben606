@@ -49,67 +49,138 @@ current_mission: Building intelligent products that solve real-world problems
 
 # ⚡ Featured Projects
 
+## Featured Projects
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Academic Flow
+### Academic Flow
 
 **AI-Powered Academic Management Platform**
 
-✅ Academic Risk Detection
-✅ AI Assistant (RAG)
-✅ Analytics Dashboard
-✅ Attendance Management
-✅ Predictive Scoring System
+**Highlights**
 
-**Stack**
+* Academic Risk Detection
+* AI Assistant (RAG)
+* Attendance Management
+* Analytics Dashboard
+* Predictive Scoring System
 
-`Next.js 16` `TypeScript` `Prisma`
-`Tailwind CSS 4` `AI SDK` `Recharts`
+**Technology**
+`Next.js 16` · `TypeScript` · `Prisma`
+`Tailwind CSS 4` · `AI SDK` · `Recharts`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🥗 NuTrack
+### NuTrack
 
-**AI Nutrition Intelligence Platform**
+**Nutrition Intelligence Platform**
 
-✅ Smart Fridge Analysis
-✅ AI Recipe Generator
-✅ Nutrition Tracking
-✅ Meal Planning
-✅ Daily Analytics
+**Highlights**
 
-**Stack**
+* Nutrition Tracking
+* Smart Fridge Analysis
+* AI Recipe Generation
+* Meal Planning
+* Analytics Dashboard
 
-`React 19` `Flask`
-`Redux` `Tailwind`
-`Groq API` `Gemini API`
+**Technology**
+`React 19` · `Flask`
+`Redux` · `Tailwind CSS`
+`Groq API` · `Gemini API`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 VerQR
+### VerQR
 
-**Secure QR Verification System**
+**Document Verification Platform**
 
-✅ PDF Generation
-✅ QR Authentication
-✅ Role Management
-✅ Public Verification Portal
-✅ Supabase Integration
+**Highlights**
 
-**Stack**
+* QR Verification
+* PDF Generation
+* Role-Based Access Control
+* Public Verification Portal
+* Secure Data Storage
 
-`React` `Node.js`
-`Express`
-`Supabase`
+**Technology**
+`React` · `Node.js`
+`Express` · `Supabase`
 `PostgreSQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### BEATIT
+
+**Real-Time Multiplayer Rhythm Game**
+
+**Highlights**
+
+* Multiplayer Synchronization
+* Competitive Gameplay
+* Responsive Design
+* Vanilla JavaScript Engine
+
+**Technology**
+`JavaScript`
+`WebSockets`
+`Vercel`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Mini Storage Handler
+
+**Storage & File Management System**
+
+**Highlights**
+
+* Storage Optimization
+* File Organization
+* Data Management
+* Final Year Project (PFE)
+
+**Technology**
+`React`
+`JavaScript`
+`Vercel`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Travel App
+
+**Travel Planning Platform**
+
+**Highlights**
+
+* Destination Discovery
+* Trip Organization
+* Full-Stack Architecture
+* Responsive Experience
+
+**Technology**
+`React`
+`Laravel`
+`REST APIs`
+
+</td>
+</tr>
+</table>
+
 
 </td>
 
